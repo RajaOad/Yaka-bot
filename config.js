@@ -35,7 +35,7 @@ if (!gg) {
 
 global.owner = gg.split(",");
 global.mongodb = process.env.MONGODB || "mongodb+srv://ThatOneGirlWithBigBootyAndBoobs2023:SendMeUrBoobsPic4535@cluster2023.bblquhi.mongodb.net/?retryWrites=true&w=majority"; // paste your own MongoDB url..
-global.sessionId = process.env.SESSION_ID || "ok";
+global.sessionId = process.env.SESSION_ID || "dlfhdsfhdsfh";
 global.prefa = process.env.PREFIX || ".";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCAYZ930Rq1EFiRNRJuSeGGrKljCnOb8-U"; // paste Your own Api Key..
