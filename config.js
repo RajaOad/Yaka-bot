@@ -34,7 +34,7 @@ if (!gg) {
 
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "mongodb+srv://ThatOneGirlWithBigBootyAndBoobs2023:SendMeUrBoobsPic4535@cluster2023.bblquhi.mongodb.net/?retryWrites=true&w=majority"; // paste your own MongoDB url..
+global.mongodb = process.env.MONGODB || "mongodb://pokemonmaster:Rajacluster1234@ac-brtkfzb-shard-00-00.emp0npb.mongodb.net:27017,ac-brtkfzb-shard-00-01.emp0npb.mongodb.net:27017,ac-brtkfzb-shard-00-02.emp0npb.mongodb.net:27017/whatsappbot?ssl=true&replicaSet=atlas-yr8avl-shard-0&authSource=admin&retryWrites=true&w=majority"; // paste your own MongoDB url..
 global.sessionId = process.env.SESSION_ID || "dlfhdsfhdsfh";
 global.prefa = process.env.PREFIX || ".";
 global.tenorApiKey =
